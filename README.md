@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My portfolio is available at [michaelthomastech.ca](michaelthomastech.ca)
+- 👨‍💻 My portfolio is available at [http://michaelthomastech.ca/](michaelthomastech.ca)
 
 - 📫 How to reach me **michaelthomas0721@icloud.com**
 
