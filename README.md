@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Michael</h1>
 <h3 align="center">An eager computer programmer from Ottawa</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 My portfolio is available at [michaelthomastech.ca](http://michaelthomastech.ca/)
+- 👨‍💻 My portfolio is available at [michaelthomastech.ca](https://michaelthomastech.ca/)
 
 - 📫 How to reach me **michaelthomas0721@icloud.com**
 
