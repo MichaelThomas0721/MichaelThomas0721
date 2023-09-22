@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I love building computers and 3D printing**
 
-<h3 align="left" href="mailto:michaelthomas0721@icloud.com">Connect with me:</h3>
 <p align="left">
 </p>
 
