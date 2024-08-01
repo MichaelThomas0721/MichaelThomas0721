@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">An eager full stack developer from Ottawa</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelthomas0721" alt="michaelthomas0721" /></a> </p>
-
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **HTMX** with **GO**
 
 - 👨‍💻 All of my projects are available at [michaelthomastech.ca](michaelthomastech.ca)
 
