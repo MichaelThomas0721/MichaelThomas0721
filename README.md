@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **3D modeling using code (openscad)**
 
-- 📫 How to reach me **michaelthomas0721@icloud.com**
-
 - ⚡ Fun fact **I love building computers and 3D printing**
 
 <p align="left">
