@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [michaelthomastech.ca](michaelthomastech.ca)
 
-- 💬 Ask me about **3D modeling using code (openscad)**
+- 💬 Ask me about **vim motions and neovim**
 
 - ⚡ Fun fact **I love building computers and 3D printing**
 
