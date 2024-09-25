@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">An eager full stack developer from Ottawa</h3>
 
-- 🌱 I’m currently learning **HTMX** with **GO**
+- 🌱 I’m currently learning NIX
 
 - 👨‍💻 All of my projects are available at [michaelthomastech.ca](michaelthomastech.ca)
 
-- 💬 Ask me about **vim motions and neovim**
+- 💬 Ask me about **dev workflow**
 
 - ⚡ Fun fact **I love building computers and 3D printing**
 
