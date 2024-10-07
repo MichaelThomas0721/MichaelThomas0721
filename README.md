@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning NIX
 
-- 👨‍💻 All of my projects are available at [michaelthomastech.ca](michaelthomastech.ca)
+- 👨‍💻 All of my projects are available at [michaelthomastech.ca](https://michaelthomastech.ca)
 
 - 💬 Ask me about my **Dev Workflow**
 
