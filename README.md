@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">An eager full stack developer from Ottawa</h3>
+<h3 align="center">A Full Stack Developer from Ottawa</h3>
 
 - 🌱 I’m currently learning NIX
 
 - 👨‍💻 All of my projects are available at [michaelthomastech.ca](michaelthomastech.ca)
 
-- 💬 Ask me about **dev workflow**
+- 💬 Ask me about my **Dev Workflow**
 
 - ⚡ Fun fact **I love building computers and 3D printing**
 
